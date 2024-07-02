@@ -1,0 +1,2 @@
+# ArduinoPackageIndexTool
+该工具用于从外部JSON文件读取Arduino包索引URL，用户可以选择预定义的URL或输入自定义URL来获取所需的JSON数据，并从中选择版本和host类型，最后获取相应的下载链接。工具还会在程序结束前打印一些关于Arduino默认存放路径的提示信息。
