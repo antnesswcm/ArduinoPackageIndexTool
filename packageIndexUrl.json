@@ -1,0 +1,6 @@
+{
+  "esp8266": "http://arduino.esp8266.com/stable/package_esp8266com_index.json",
+  "stm32": "https://dl.espressif.com/dl/package_esp32_index.json",
+  "STM32": "https://dan.drown.org/stm32duino/package_STM32duino_index.json",
+  "m5stack": "https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/arduino/package_m5stack_index.json"
+}
